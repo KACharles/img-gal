@@ -1,0 +1,9 @@
+ul {
+  float: right;
+  display: inline;
+}
+ul li{
+  float: right;
+  display: inline;
+  padding: 5px;
+}
